@@ -15,7 +15,8 @@ $persona = [
 $auto = [
             "Marca" => "Ford",
             "Modelo" => "Focus",
-            "Año" => 2017
+            "Año" => 2017,
+            "Puertas" => 4
 ];
 
             foreach ($auto as $posicion => $valor){
