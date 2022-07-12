@@ -10,8 +10,7 @@ $persona = [
             echo "$valor <br>";
             }
             
-          ?>
-
+         
 $auto = [
             "Marca" => "Ford",
             "Modelo" => "Focus",
@@ -23,3 +22,5 @@ $auto = [
                         echo "$posicion: $valor <?>;
             }
       }
+
+             ?>
